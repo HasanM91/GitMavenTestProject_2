@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="http://nexus-internal.whitesourcesoftware.com:8081/nexus/content/groups/all-aggregated" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="atlassian-plugin-sdk" />
+      <option name="name" value="atlassian-plugin-sdk" />
+      <option name="url" value="file:///Applications/Atlassian/atlassian-plugin-sdk-6.2.2/repository" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="atlassian-public" />
+      <option name="name" value="atlassian-public" />
+      <option name="url" value="https://m2proxy.atlassian.com/repository/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="eaio.com" />
+      <option name="name" value="eaio.com" />
+      <option name="url" value="http://eaio.com/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jfrog.org" />
+      <option name="name" value="jfrog.org" />
+      <option name="url" value="http://repo.jfrog.org/artifactory/libs-releases/" />
+    </remote-repository>
+  </component>
+</project>
